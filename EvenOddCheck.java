@@ -1,8 +1,8 @@
 package Framejava;
 
-import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+import javax.swing.*;
 
 public class EvenOddCheck {
     public static void main(String[] args) {
@@ -37,5 +37,6 @@ public class EvenOddCheck {
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         f.setLocationRelativeTo(null);
         f.setVisible(true);
+        
     }
 }
