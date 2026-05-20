@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.event.*;
 
-public class SimpleGUI {
+public class Simplegui{
     public static void main(String[] args) {
         JFrame f = new JFrame("Simple GUI");
         JLabel lbl1 = new JLabel("First number:");
